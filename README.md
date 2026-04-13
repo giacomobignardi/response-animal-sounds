@@ -1,4 +1,4 @@
-# Humans share acoustic preferences with other animals
+# Shared and unique taste in acoustic preferences
 
 Materials and code to reproduce Bignardi., G., Vessel, E. A., Mosing, M. A., & Ullèn, F. (2026). Shared and unique taste in acoustic preferences [Response to James et al. (2026)].
 
