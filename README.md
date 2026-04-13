@@ -8,8 +8,9 @@ Link to data, code, and materials for "Humans share acoustic preferences with ot
 
 ```         
 R/
-├── reanalysis.R     # Pulls data from github.com/themusiclab/animal-sounds and
-│                    # estimates partitioned repeatable variance into shared and unique via GLMM
-└── vca.fun.R        # Function to partition variance components into variance
-                     # partitioning coefficients and beholder index
+│ ├── reanalysis.R     # Pulls data from github.com/themusiclab/animal-sounds and
+│ │                    # estimates partitioned repeatable variance into shared and unique via GLMM
+│ └── vca.fun.R        # Function to partition variance components into variance
+│                      # partitioning coefficients and beholder index
+└── Supplement.pdf     # Supplementary materials
 ```
